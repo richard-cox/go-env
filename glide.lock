@@ -1,0 +1,6 @@
+hash: 18356ed0357d795adfb9662904ff5b86a7c77d394abe84331a67ad789e5b1d90
+updated: 2017-06-01T13:34:09.69092041+01:00
+imports:
+- name: github.com/elgs/gostrgen
+  version: 9d61ae07eeaeb54ce2100022b1fd3ea020093d09
+testImports: []
