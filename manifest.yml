@@ -3,7 +3,6 @@ applications:
 # We have reserved a name/route for your app
 - name: node-env
   host: node-env
-  domain: cf-dev.io
   health-check-type: process    
   description : Simple & small cloud-foundry app
   memory: 16M
