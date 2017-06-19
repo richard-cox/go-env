@@ -6,4 +6,5 @@ applications:
   domain: cf-dev.io
   health-check-type: process    
   description : Simple demo that prints the server's environment variables.
-  memory: 64M
+  memory: 32M
+  disk_quota: 16M
