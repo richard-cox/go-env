@@ -5,6 +5,6 @@ applications:
   host: node-env
   domain: cf-dev.io
   health-check-type: process    
-  description : Simple demo that prints the server's environment variables.
+  description : Simple & small cloud-foundry app
   memory: 16M
   disk_quota: 16M
