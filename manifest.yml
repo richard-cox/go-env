@@ -1,5 +1,5 @@
 applications:
-- name: node-env
+- name: go-env
   health-check-type: process    
   description : Simple & small cloud-foundry app
   memory: 16M
