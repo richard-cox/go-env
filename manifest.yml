@@ -1,5 +1,5 @@
 applications:
-- name: go-env-rc
+- name: go-env-rc-from-github
   health-check-type: process    
   description : Simple & small cloud-foundry app
   memory: 16M
